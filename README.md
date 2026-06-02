@@ -1,5 +1,11 @@
 # VIBRISKeyboardMacondo
 
+Hi! This is VIBRIS Keyboard I made for YSWS Macondo In Hackclub.
+So the VIBRIS Keyboard is a 60% keyboard that is compact and FULLY HANDWIRED!
+I made this project to learn more about cad and soldering!
+I will also be gifting this keyboard to my sister!
+
+
 
 ## BOM
 
