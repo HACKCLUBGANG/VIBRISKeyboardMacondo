@@ -1,26 +1,15 @@
-## Bill of Materials
-
-| Component                             |     Qty | Cost (INR) | Cost (USD) | Link                                                                                          |
-| ------------------------------------- | ------: | ---------: | ---------: | --------------------------------------------------------------------------------------------- |
-| RP2040-Zero MCU                       |       1 |    ₹235.00 |      $2.47 | https://robu.in/product/rp2040-zero-for-raspberry-pi-microcontroller-with-soldering/          |
-| Durock Smokey Plate Mount Stabilizers |   1 Set |  ₹2,012.00 |     $21.18 | https://www.amazon.in/gp/product/B09T74YQMT/                                                  |
-| Veekos Gradient Keycaps (135 Keys)    |   1 Set |  ₹1,299.00 |     $13.67 | https://stackskb.com/store/veekos-gradient-keycaps-cherry-profile-135-keys/                   |
-| Akko Mirror Switches (45 Pack)        | 2 Packs |  ₹2,598.00 |     $27.34 | https://stackskb.com/store/akko-mirror-switch-pack-of-45-pre-order/                           |
-| Enamelled Copper Wire                 |       1 |    ₹299.00 |      $3.15 | https://www.amazon.in/Glopro-Store-Enamelled-electrical-projects/dp/B09Z1QHTGN/               |
-| 1N4148 Diodes                         |      70 |     ₹86.80 |      $0.91 | https://robu.in/product/1n4148-1w-zener-diode-pack-of-50/                                     |
-| M2 × 6mm Brass Threaded Inserts       |      16 |     ₹38.40 |      $0.40 | https://onlyscrews.in/products/m2-x-6mm-brass-threaded-inserts                                |
-| M2 × 8mm SS304 Hex Button Head Screws |      16 |     ₹76.80 |      $0.81 | https://onlyscrews.in/products/m2-x-8mm-hex-allen-button-head-ss-304-screw-dia-2mm-length-8mm |
-| Solder Wick                           |       1 |     ₹42.00 |      $0.44 | https://robu.in/product/best-quality-solder-desoldering-wire-de-soldering-wick/               |
-| Noel Yellow Flux (10g)                |       1 |     ₹25.00 |      $0.26 | https://robu.in/product/noel-yellow-solder-flux-10gm-pack/                                    |
-| Solder Wire 0.5mm (50g)               |       1 |    ₹253.00 |      $2.66 | https://robu.in/product/solder-wire-0-5mm-50g-b-type-35-tin-content/                          |
-| 3D Printed Parts (Case, Plate, etc.)  |     DIY |      ₹0.00 |      $0.00 | Self-made                                                                                     |
-| Shipping & Taxes (Estimated)          |     N/A |    ₹500.00 |      $5.26 | N/A                                                                                           |
-
----
-
-## Total
-
-| Currency |    Amount |
-| -------- | --------: |
-| INR      | ₹7,847.20 |
-| USD      |    $82.60 |
+Component,Quantity,Cost_INR,Cost_USD,Link
+RP2040-Zero MCU,1,235.00,2.47,https://robu.in/product/rp2040-zero-for-raspberry-pi-microcontroller-with-soldering/
+Durock Smokey Plate Mount Stabilizers,1 Set,2012.00,21.18,https://www.amazon.in/gp/product/B09T74YQMT/
+Veekos Gradient Keycaps (135 Keys),1 Set,1299.00,13.67,https://stackskb.com/store/veekos-gradient-keycaps-cherry-profile-135-keys/
+Akko Mirror Switches (45 Pack),2 Packs,2598.00,27.34,https://stackskb.com/store/akko-mirror-switch-pack-of-45-pre-order/
+Enamelled Copper Wire,1,299.00,3.15,https://www.amazon.in/Glopro-Store-Enamelled-electrical-projects/dp/B09Z1QHTGN/
+1N4148 Diodes,70,86.80,0.91,https://robu.in/product/1n4148-1w-zener-diode-pack-of-50/
+M2 x 6mm Brass Threaded Inserts,16,38.40,0.40,https://onlyscrews.in/products/m2-x-6mm-brass-threaded-inserts
+M2 x 8mm SS304 Hex Button Head Screws,16,76.80,0.81,https://onlyscrews.in/products/m2-x-8mm-hex-allen-button-head-ss-304-screw-dia-2mm-length-8mm
+Solder Wick,1,42.00,0.44,https://robu.in/product/best-quality-solder-desoldering-wire-de-soldering-wick/
+Noel Yellow Flux (10g),1,25.00,0.26,https://robu.in/product/noel-yellow-solder-flux-10gm-pack/
+Solder Wire 0.5mm (50g),1,253.00,2.66,https://robu.in/product/solder-wire-0-5mm-50g-b-type-35-tin-content/
+3D Printed Parts (Case Plate etc.),DIY,0.00,0.00,Self-made
+Shipping and Taxes (Estimated),N/A,500.00,5.26,N/A
+TOTAL,,7847.20,82.60,
