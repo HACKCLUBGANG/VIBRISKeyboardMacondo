@@ -4,7 +4,8 @@ Hi! This is VIBRIS Keyboard I made for YSWS Macondo In Hackclub.
 So the VIBRIS Keyboard is a 60% keyboard that is compact and FULLY HANDWIRED!
 I made this project to learn more about cad and soldering!
 I will also be gifting this keyboard to my sister!
-
+<img width="1080" height="1350" alt="Pink and Purple Modern New Product Instagram Post" src="https://github.com/user-attachments/assets/4b4d0cdf-f99e-4022-9878-560e6c11aa71" />
+So Basically This keyboard is ran by qmk firmware and It uses a rp2040 Microchip the devboard is named RP2040-ZERO a compact development board with alot of GPIO pins to connect the keyboard columns and rows to.
 
 
 ## BOM
