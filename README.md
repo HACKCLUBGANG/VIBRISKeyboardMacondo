@@ -7,7 +7,10 @@ I will also be gifting this keyboard to my sister!
 <img width="1080" height="1350" alt="Pink and Purple Modern New Product Instagram Post" src="https://github.com/user-attachments/assets/4b4d0cdf-f99e-4022-9878-560e6c11aa71" />
 So Basically This keyboard is ran by qmk firmware and It uses a rp2040 Microchip the devboard is named RP2040-ZERO a compact development board with alot of GPIO pins to connect the keyboard columns and rows to.
 
-
+## SCHEMATICS
+You can find the schematics that i made in kicad in the schematics folder
+<img width="1265" height="508" alt="image" src="https://github.com/user-attachments/assets/c692b87b-6e10-492d-b80c-dca89481c19d" />
+<img width="474" height="454" alt="image" src="https://github.com/user-attachments/assets/8cfcb84c-299c-4389-a3f5-d4ac81f0f400" />
 
 ## BOM
 
