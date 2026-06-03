@@ -31,22 +31,39 @@ You have to connect is like the pictures given below
 ## ASSEMBLY.
 
 After buying all of the parts you have to follow this tutorial to assemble it.
+
 First you have to print the bottom and top plate given in the CAD Folder after printing take the top plate and the cherry mx switches.
+
 And you have to insert each one like this.
+
 <img width="1117" height="405" alt="image" src="https://github.com/user-attachments/assets/bd828761-a51b-4cc5-834f-863062fea708" />
+
 You have to put each key in their slot 
+
 then you have to connect each key like this 
+
 <img width="976" height="361" alt="image" src="https://github.com/user-attachments/assets/be9fec4e-6a39-40ec-867f-25171155071f" />
+
 you have to use diodes too to prevent issues.
+
 Then you have to connect all of these wires 
+
 After that you will have to solder those wires to the rp2040 zero 
+
 You can check how the wires will be connected to rp2040-zero in the schematics section in this readme.
+
 After that you have to upload the firmware given in the firmware folder
+
 To upload the firmware you have to put the rp2040 zero into boot mode so that u can upload the firmware
+
 To put it into boot mode you have to Hold the BOOT button on the rp2040 zero board
+
 Then you have to open file manager in your pc/laptop (AFTER CONNECTING THE BOARD TO PC/LAPTOP AND IT HAS TO BE IN BOOT MODE)
+
 Then drag the firmware file into the new disk that appeared
+
 Then you can go to any keyboard testing website and test your keyboard.
+
 Then after testing you can use your soldering iron to heat the inserts into the holes that were printed in the bottom plate heres a pic 
 <img width="890" height="338" alt="image" src="https://github.com/user-attachments/assets/d2addea3-8629-4421-9df3-400bcf148ebe" />
 Stick you rp2040 zero using double sided tape under the board and stick to the top left side of the bottom board (KEEP THE WIRES LONG)
