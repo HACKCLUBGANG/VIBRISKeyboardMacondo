@@ -8,6 +8,7 @@ I will also be gifting this keyboard to my sister!
 So Basically This keyboard is ran by qmk firmware and It uses a rp2040 Microchip the devboard is named RP2040-ZERO a compact development board with alot of GPIO pins to connect the keyboard columns and rows to.
 
 
+
 ## BOM
 
 * **Total Cost:** ₹7,847.20
