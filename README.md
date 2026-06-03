@@ -72,7 +72,7 @@ And Add the keycaps as you want and you're ready to GO!
 
 Congratulations You have Just Built A 60% Hand Wired Keyboard
 
-
+## Firmware
 
 
 ## BOM
