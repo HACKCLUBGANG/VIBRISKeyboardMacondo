@@ -106,3 +106,6 @@ Congratulations You have Just Built A 60% Hand Wired Keyboard
 | -------- | --------: |
 | INR      | ₹7,847.20 |
 | USD      |    $82.60 |
+
+
+## Cart Pic
