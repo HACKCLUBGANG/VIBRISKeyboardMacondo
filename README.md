@@ -85,7 +85,7 @@ Congratulations You have Just Built A 60% Hand Wired Keyboard
 | Component                             |     Qty | Cost (INR) | Cost (USD) | Link                                                                                          |
 | ------------------------------------- | ------: | ---------: | ---------: | --------------------------------------------------------------------------------------------- |
 | RP2040-Zero MCU                       |       1 |    ₹235.00 |      $2.47 | https://robu.in/product/rp2040-zero-for-raspberry-pi-microcontroller-with-soldering/          |
-| Durock Smokey Plate Mount Stabilizers |   1 Set |  ₹2,012.00 |     $21.18 | https://www.amazon.in/gp/product/B09T74YQMT/                                                  |
+| Genuine Cherry MX Plate Mount Stabili |   5 Set |    ₹500.00 |     $5.28  | https://stackskb.com/store/genuine-cherry-mx-plate-mount-stabilizers-2u/                      |
 | Veekos Gradient Keycaps (135 Keys)    |   1 Set |  ₹1,299.00 |     $13.67 | https://stackskb.com/store/veekos-gradient-keycaps-cherry-profile-135-keys/                   |
 | Akko Mirror Switches (45 Pack)        | 2 Packs |  ₹2,598.00 |     $27.34 | https://stackskb.com/store/akko-mirror-switch-pack-of-45-pre-order/                           |
 | Enamelled Copper Wire                 |       1 |    ₹299.00 |      $3.15 | https://www.amazon.in/gp/product/B08NWFSXLT/                                                  |
@@ -105,8 +105,8 @@ Congratulations You have Just Built A 60% Hand Wired Keyboard
 
 | Currency |    Amount |
 | -------- | --------: |
-| INR      | ₹7,847.20 |
-| USD      |    $85~   |
+| INR      | ₹6,300~   |
+| USD      |  $66.5~   |
 
 
 ## Cart Pic
