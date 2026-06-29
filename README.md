@@ -77,9 +77,6 @@ Congratulations You have Just Built A 60% Hand Wired Keyboard
 
 ## BOM
 
-* **Total Cost:** ₹7,847.20
-* **Total Cost (USD @ ₹95/USD):** $82.60
-
 ## Bill of Materials
 
 | Component                             |     Qty | Cost (INR) | Cost (USD) | Link                                                                                          |
