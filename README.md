@@ -82,16 +82,11 @@ Congratulations You have Just Built A 60% Hand Wired Keyboard
 | Component                             |     Qty | Cost (INR) | Cost (USD) | Link                                                                                          |
 | ------------------------------------- | ------: | ---------: | ---------: | --------------------------------------------------------------------------------------------- |
 | RP2040-Zero MCU                       |       1 |    ₹235.00 |      $2.47 | https://robu.in/product/rp2040-zero-for-raspberry-pi-microcontroller-with-soldering/          |
-| Genuine Cherry MX Plate Mount Stabili |   5 Set |    ₹500.00 |     $5.28  | https://stackskb.com/store/genuine-cherry-mx-plate-mount-stabilizers-2u/                      |
-| Veekos Gradient Keycaps (135 Keys)    |   1 Set |  ₹1,299.00 |     $13.67 | https://stackskb.com/store/veekos-gradient-keycaps-cherry-profile-135-keys/                   |
-| Akko Mirror Switches (45 Pack)        | 2 Packs |  ₹2,598.00 |     $27.34 | https://stackskb.com/store/akko-mirror-switch-pack-of-45-pre-order/                           |
+| Genuine Cherry MX Plate Mount Stabili |   5 Set |    ₹500.00 |      $5.28 | https://stackskb.com/store/genuine-cherry-mx-plate-mount-stabilizers-2u/                      |
+| Contour Side Printed Keycap Set       |   1 Set |    ₹799.00 |      $8.41 | https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/contour-side-printed-keycap-set-2/ |
+| Gateron G Pro 3.0 Red Switch          | 7 Packs |  ₹1,393.00 |     $14.66 | https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/gateron-g-pro-3-0-switch/ |
 | Enamelled Copper Wire                 |       1 |    ₹299.00 |      $3.15 | https://www.amazon.in/gp/product/B08NWFSXLT/                                                  |
 | 1N4148 Diodes                         |      70 |     ₹86.80 |      $0.91 | https://robu.in/product/1n4148-1w-zener-diode-pack-of-50/                                     |
-| M2 × 6mm Brass Threaded Inserts       |      16 |     ₹38.40 |      $0.40 | https://onlyscrews.in/products/m2-x-6mm-brass-threaded-inserts                                |
-| M2 × 8mm SS304 Hex Button Head Screws |      16 |     ₹76.80 |      $0.81 | https://onlyscrews.in/products/m2-x-8mm-hex-allen-button-head-ss-304-screw-dia-2mm-length-8mm |
-| Solder Wick                           |       1 |     ₹42.00 |      $0.44 | https://robu.in/product/best-quality-solder-desoldering-wire-de-soldering-wick/               |
-| Noel Yellow Flux (10g)                |       1 |     ₹25.00 |      $0.26 | https://robu.in/product/noel-yellow-solder-flux-10gm-pack/                                    |
-| Solder Wire 0.5mm (50g)               |       1 |    ₹253.00 |      $2.66 | https://robu.in/product/solder-wire-0-5mm-50g-b-type-35-tin-content/                          |
 | Heat Shrink Tube                      |       1 |    ₹225.00 |      $2.66 | https://www.amazon.in/gp/product/B0BFXPKCF2/                                                  |
 | 3D Printed Parts (Case, Plate, etc.)  |     DIY |      ₹0.00 |      $0.00 | Self-made                                                                                     |
 | Shipping & Taxes (Estimated)          |     N/A |    ₹500.00 |      $5.26 | N/A                                                                                           |
@@ -100,10 +95,10 @@ Congratulations You have Just Built A 60% Hand Wired Keyboard
 
 ## Total
 
-| Currency |    Amount |
-| -------- | --------: |
-| INR      | ₹6,300~   |
-| USD      |  $66.5~   |
+| Currency | Amount |
+| -------- | -----: |
+| INR      | ₹4,036.80 |
+| USD      | ~$42.5 |
 
 
 ## Cart Pic
