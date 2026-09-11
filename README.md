@@ -75,21 +75,24 @@ Congratulations You have Just Built A 60% Hand Wired Keyboard
 ## Firmware
 
 
-## BOM
+## Bill of Materials
 
 | Component | Qty | Cost (INR) | Cost (USD) | Link |
-| RP2040-Zero MCU | 1 | ₹235.00 | $2.47 | https://robu.in/product/rp2040-zero-for-raspberry-pi-microcontroller-with-soldering/ |
-| Genuine Cherry MX Plate Mount Stabilizers | 5 Set | ₹500.00 | $5.28 | https://stackskb.com/store/genuine-cherry-mx-plate-mount-stabilizers-2u/ |
-| Contour Side Printed Keycap Set | 1 Set | ₹799.00 | $8.41 | https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/contour-side-printed-keycap-set-2/ |
-| Gateron G Pro 3.0 Red Switch | 7 Packs | ₹1,393.00 | $14.66 | https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/gateron-g-pro-3-0-switch/ |
-| Enamelled Copper Wire | 1 | ₹299.00 | $3.15 | https://www.amazon.in/gp/product/B08NWFSXLT/ |
-| 1N4148 Diodes | 70 | ₹86.80 | $0.91 | https://robu.in/product/1n4148-1w-zener-diode-pack-of-50/ |
-| Heat Shrink Tube | 1 | ₹225.00 | $2.36 | https://www.amazon.in/gp/product/B0BFXPKCF2/ |
-| WS2812B-2020 RGB LEDs | 75 | ₹675.00 | $7.08 | https://robu.in/ |
+|---|---:|---:|---:|---|
+| RP2040-Zero MCU | 1 | ₹235.00 | $2.47 | [Robu](https://robu.in/product/rp2040-zero-for-raspberry-pi-microcontroller-with-soldering/) |
+| Genuine Cherry MX Plate Mount Stabilizers | 5 Set | ₹500.00 | $5.28 | [StacksKB](https://stackskb.com/store/genuine-cherry-mx-plate-mount-stabilizers-2u/) |
+| Contour Side Printed Keycap Set | 1 Set | ₹799.00 | $8.41 | [Meckeys](https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/contour-side-printed-keycap-set-2/) |
+| Gateron G Pro 3.0 Red Switch | 7 Packs | ₹1,393.00 | $14.66 | [Meckeys](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/gateron-g-pro-3-0-switch/) |
+| Enamelled Copper Wire | 1 | ₹299.00 | $3.15 | [Amazon](https://www.amazon.in/gp/product/B08NWFSXLT/) |
+| 1N4148 Diodes | 70 | ₹86.80 | $0.91 | [Robu](https://robu.in/product/1n4148-1w-zener-diode-pack-of-50/) |
+| Heat Shrink Tube | 1 | ₹225.00 | $2.36 | [Amazon](https://www.amazon.in/gp/product/B0BFXPKCF2/) |
+| WS2812B-2020 RGB LEDs | 75 | ₹675.00 | $7.08 | [Robu](https://robu.in/) |
 | 3D Printed Parts (Case, Plate, etc.) | DIY | ₹0.00 | $0.00 | Self-made |
 | Shipping & Taxes (Estimated) | N/A | ₹250.00 | $2.62 | N/A |
 
-Total | | ₹4,462.80 | ~$47.00 |
+## Total
+
+**₹4,462.80 (~$47.00 USD)**
 
 ## Cart Pic
 
