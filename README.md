@@ -105,8 +105,6 @@ Congratulations You have Just Built A 60% Hand Wired Keyboard
 # STACKSKB
 <img width="1319" height="612" alt="image" src="https://github.com/user-attachments/assets/80463bcc-1102-456c-a2de-89daf728b8ba" />
 
-# OnlyScrews
-<img width="1258" height="618" alt="image" src="https://github.com/user-attachments/assets/731b60ba-027f-4cb8-b514-a8646d958a59" />
 
 
 
