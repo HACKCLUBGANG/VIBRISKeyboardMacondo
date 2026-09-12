@@ -85,7 +85,7 @@ Congratulations You have Just Built A 60% Hand Wired Keyboard
 | 1N4148 Diodes | 70 | 70 | ₹86.80 | $0.91 | Robu |
 | 28 AWG Enamelled Copper Wire | 1 | 1 | ₹299.00 | $3.15 | — |
 | Heat Shrink Tube | 1 | 1 | ₹225.00 | $2.36 | Amazon |
-| 5mm White/Blue LEDs | 70 | 70 | ₹98.00 | $1.03 | [Robocraze](https://robocraze.com/products/5mm-white-blue-led-pack-of-10?variant=40192389120153) |
+| 3mm White LEDs | 70 | 70 | ₹98.00 | $1.03 | [Robocraze](https://robocraze.com/products/3mm-white-led-pack-of-10?variant=40193284931737) |
 | 220 Ω 0.25W Metal Film Resistor | 70 | 70 | ₹42.70 | $0.45 | [Robu](https://robu.in/product/220-ohm-0-25w-metal-film-resistor/) |
 | AO3400-HXY N-Channel MOSFET | 1 | 3 | ₹12.27 | $0.13 | [Robu](https://robu.in/product/ao3400-hxy-mosfet-30v-5-8a-30m%CF%89-10v-5-8a-1-4w-700mv-1-n-channel-sot-23-mosfets-rohs/) |
 | 100 Ω 1/4W 0603 Resistor | 1 | 18 | ₹10.08 | $0.11 | [Robu](https://robu.in/product/100-ohm-chip-resistor-1-4w-0603-surface-mount/) |
