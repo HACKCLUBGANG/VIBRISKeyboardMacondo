@@ -75,24 +75,23 @@ Congratulations You have Just Built A 60% Hand Wired Keyboard
 ## Firmware
 
 
-## Bill of Materials
-
-| Component | Qty | Cost (INR) | Cost (USD) | Link |
-|---|---:|---:|---:|---|
-| RP2040-Zero MCU | 1 | ₹235.00 | $2.47 | [Robu](https://robu.in/product/rp2040-zero-for-raspberry-pi-microcontroller-with-soldering/) |
-| Genuine Cherry MX Plate Mount Stabilizers | 5 Set | ₹500.00 | $5.28 | [StacksKB](https://stackskb.com/store/genuine-cherry-mx-plate-mount-stabilizers-2u/) |
-| Contour Side Printed Keycap Set | 1 Set | ₹799.00 | $8.41 | [Meckeys](https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/contour-side-printed-keycap-set-2/) |
-| Gateron G Pro 3.0 Red Switch | 7 Packs | ₹1,393.00 | $14.66 | [Meckeys](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/gateron-g-pro-3-0-switch/) |
-| Enamelled Copper Wire | 1 | ₹299.00 | $3.15 | [Amazon](https://www.amazon.in/gp/product/B08NWFSXLT/) |
-| 1N4148 Diodes | 70 | ₹86.80 | $0.91 | [Robu](https://robu.in/product/1n4148-1w-zener-diode-pack-of-50/) |
-| Heat Shrink Tube | 1 | ₹225.00 | $2.36 | [Amazon](https://www.amazon.in/gp/product/B0BFXPKCF2/) |
-| WS2812B-2020 RGB LEDs | 75 | ₹675.00 | $7.08 | [Robu](https://robu.in/) |
-| 3D Printed Parts (Case, Plate, etc.) | DIY | ₹0.00 | $0.00 | Self-made |
-| Shipping & Taxes (Estimated) | N/A | ₹250.00 | $2.62 | N/A |
-
-## Total
-
-**₹4,462.80 (~$47.00 USD)**
+| Component | Required Qty | Purchase Qty | Cost (INR) | Cost (USD) | Link |
+|---|---:|---:|---:|---:|---|
+| RP2040-Zero MCU | 1 | 1 | ₹235.00 | $2.47 | [Robu](https://robu.in/) |
+| Gateron G Pro 3.0 Red Switch | 61 | 7 Packs | ₹1,393.00 | $14.66 | Meckeys |
+| Contour Side Printed Keycap Set | 1 | 1 | ₹799.00 | $8.41 | Meckeys |
+| Genuine Cherry MX Plate Mount Stabilizers | 5 Sets | 5 Sets | ₹500.00 | $5.28 | StacksKB |
+| 1N4148 Diodes | 70 | 70 | ₹86.80 | $0.91 | Robu |
+| 28 AWG Enamelled Copper Wire | 1 | 1 | ₹299.00 | $3.15 | — |
+| Heat Shrink Tube | 1 | 1 | ₹225.00 | $2.36 | Amazon |
+| 5mm White/Blue LEDs | 70 | 70 | ₹98.00 | $1.03 | [Robocraze](https://robocraze.com/products/5mm-white-blue-led-pack-of-10?variant=40192389120153) |
+| 220 Ω 0.25W Metal Film Resistor | 70 | 70 | ₹42.70 | $0.45 | [Robu](https://robu.in/product/220-ohm-0-25w-metal-film-resistor/) |
+| AO3400-HXY N-Channel MOSFET | 1 | 3 | ₹12.27 | $0.13 | [Robu](https://robu.in/product/ao3400-hxy-mosfet-30v-5-8a-30m%CF%89-10v-5-8a-1-4w-700mv-1-n-channel-sot-23-mosfets-rohs/) |
+| 100 Ω 1/4W 0603 Resistor | 1 | 18 | ₹10.08 | $0.11 | [Robu](https://robu.in/product/100-ohm-chip-resistor-1-4w-0603-surface-mount/) |
+| 100 kΩ 1/4W 1206 Resistor | 1 | 14 | ₹10.22 | $0.11 | [Robu](https://robu.in/product/100k-ohm-1-4w-1206-surface-mount-chip-resistor/) |
+| 3D Printed Parts | — | — | ₹0 | $0 | DIY |
+| Shipping & Taxes | — | — | ₹250.00 | $2.62 | — |
+| **TOTAL** | | | **₹3,961.07** | **~$41.44** | |
 
 ## Cart Pic
 
