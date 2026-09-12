@@ -74,6 +74,7 @@ Congratulations You have Just Built A 60% Hand Wired Keyboard
 
 ## Firmware
 
+# BOM
 
 | Component | Required Qty | Purchase Qty | Cost (INR) | Cost (USD) | Link |
 |---|---:|---:|---:|---:|---|
@@ -89,9 +90,11 @@ Congratulations You have Just Built A 60% Hand Wired Keyboard
 | AO3400-HXY N-Channel MOSFET | 1 | 3 | ₹12.27 | $0.13 | [Robu](https://robu.in/product/ao3400-hxy-mosfet-30v-5-8a-30m%CF%89-10v-5-8a-1-4w-700mv-1-n-channel-sot-23-mosfets-rohs/) |
 | 100 Ω 1/4W 0603 Resistor | 1 | 18 | ₹10.08 | $0.11 | [Robu](https://robu.in/product/100-ohm-chip-resistor-1-4w-0603-surface-mount/) |
 | 100 kΩ 1/4W 1206 Resistor | 1 | 14 | ₹10.22 | $0.11 | [Robu](https://robu.in/product/100k-ohm-1-4w-1206-surface-mount-chip-resistor/) |
+| M2 × 8 mm SS304 Hex Button-Head Screws | 16 | 16 | ₹76.80 | $0.80 | OnlyScrews |
+| M2 × 6 mm Brass Threaded Inserts | 16 | 16 | ₹38.40 | $0.40 | OnlyScrews |
 | 3D Printed Parts | — | — | ₹0 | $0 | DIY |
 | Shipping & Taxes | — | — | ₹250.00 | $2.62 | — |
-| **TOTAL** | | | **₹3,961.07** | **~$41.44** | |
+| **TOTAL** | | | **₹4,076.27** | **~$42.64** | |
 
 ## Cart Pic
 
