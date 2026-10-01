@@ -24,8 +24,9 @@ BOTTOM PLATE
 ## SCHEMATICS
 You can find the schematics that i made in kicad in the schematics folder
 You have to connect is like the pictures given below
-<img width="1265" height="508" alt="image" src="https://github.com/user-attachments/assets/c692b87b-6e10-492d-b80c-dca89481c19d" />
-<img width="474" height="454" alt="image" src="https://github.com/user-attachments/assets/8cfcb84c-299c-4389-a3f5-d4ac81f0f400" />
+<img width="832" height="576" alt="{E519D9AD-38AF-4175-8E73-E21F404571FA}" src="https://github.com/user-attachments/assets/9c35e5a3-6420-4999-a6e4-1bc269d2e733" />
+<img width="1274" height="567" alt="{00A3D660-7E08-496A-902B-38DFA6FA57E7}" src="https://github.com/user-attachments/assets/48efdd68-4191-4a9c-9466-7bcaf3b5ab59" />
+
 
 
 ## ASSEMBLY.
