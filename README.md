@@ -35,6 +35,10 @@ After buying all of the parts you have to follow this tutorial to assemble it.
 
 First you have to print the bottom and top plate given in the CAD Folder after printing take the top plate and the cherry mx switches.
 
+Add the white led to each switch like this
+<img width="305" height="313" alt="image" src="https://github.com/user-attachments/assets/6fa88bc8-7897-414e-ba8f-aed26cf6e2a6" />
+<img width="316" height="440" alt="image" src="https://github.com/user-attachments/assets/aa88fec6-16a5-481e-80a7-218ec94e00c8" />
+
 And you have to insert each one like this.
 
 <img width="1117" height="405" alt="image" src="https://github.com/user-attachments/assets/bd828761-a51b-4cc5-834f-863062fea708" />
