@@ -79,40 +79,25 @@ Congratulations You have Just Built A 60% Hand Wired Keyboard
 
 ## Firmware
 
-# BOM
+# 61-Key Handwired Keyboard BOM
 
-| Component | Required Qty | Purchase Qty | Cost (INR) | Cost (USD) | Link |
-|---|---:|---:|---:|---:|---|
-| RP2040-Zero MCU | 1 | 1 | ₹235.00 | $2.47 | [Robu](https://robu.in/) |
-| Gateron G Pro 3.0 Red Switch | 61 | 7 Packs | ₹1,393.00 | $14.66 | Meckeys |
-| Contour Side Printed Keycap Set | 1 | 1 | ₹799.00 | $8.41 | Meckeys |
-| Genuine Cherry MX Plate Mount Stabilizers | 5 Sets | 5 Sets | ₹500.00 | $5.28 | StacksKB |
-| 1N4148 Diodes | 70 | 70 | ₹86.80 | $0.91 | Robu |
-| 28 AWG Enamelled Copper Wire | 1 | 1 | ₹299.00 | $3.15 | — |
-| Heat Shrink Tube | 1 | 1 | ₹225.00 | $2.36 | Amazon |
-| 3mm White LEDs | 70 | 70 | ₹98.00 | $1.03 | [Robocraze](https://robocraze.com/products/3mm-white-led-pack-of-10?variant=40193284931737) |
-| 220 Ω 0.25W Metal Film Resistor | 70 | 70 | ₹42.70 | $0.45 | [Robu](https://robu.in/product/220-ohm-0-25w-metal-film-resistor/) |
-| AO3400-HXY N-Channel MOSFET | 1 | 3 | ₹12.27 | $0.13 | [Robu](https://robu.in/product/ao3400-hxy-mosfet-30v-5-8a-30m%CF%89-10v-5-8a-1-4w-700mv-1-n-channel-sot-23-mosfets-rohs/) |
-| 100 Ω 1/4W 0603 Resistor | 1 | 18 | ₹10.08 | $0.11 | [Robu](https://robu.in/product/100-ohm-chip-resistor-1-4w-0603-surface-mount/) |
-| 100 kΩ 1/4W 1206 Resistor | 1 | 14 | ₹10.22 | $0.11 | [Robu](https://robu.in/product/100k-ohm-1-4w-1206-surface-mount-chip-resistor/) |
-| M2 × 8 mm SS304 Hex Button-Head Screws | 16 | 16 | ₹76.80 | $0.80 | OnlyScrews |
-| M2 × 6 mm Brass Threaded Inserts | 16 | 16 | ₹38.40 | $0.40 | OnlyScrews |
-| 3D Printed Parts | — | — | ₹0 | $0 | DIY |
-| Shipping & Taxes | — | — | ₹250.00 | $2.62 | — |
-| **TOTAL** | | | **₹4,076.27** | **~$42.64** | |
-
-## Cart Pic
-
-# Amazon
-<img width="1000" height="498" alt="{318C8C84-536D-47A5-962B-B79CDD735C04}" src="https://github.com/user-attachments/assets/175557c7-3240-4925-a1f5-3093e9ace8b0" />
-
-# Robu
-<img width="1087" height="657" alt="image" src="https://github.com/user-attachments/assets/0fd974db-2871-42f7-8fec-35be0d1a0e06" />
-
-# STACKSKB
-<img width="1319" height="612" alt="image" src="https://github.com/user-attachments/assets/80463bcc-1102-456c-a2de-89daf728b8ba" />
-
-
-
-
+| Component | Required Qty | Purchase Qty | Cost (INR) | Cost (USD) |
+|---|---:|---:|---:|---:|
+| RP2040-Zero | 1 | 1 | ₹235.00 | $2.47 |
+| Gateron Milky PRO Yellow 5-pin Switches | 61 | 70 | ₹1,323.35 | $13.91 |
+| Chainsaw Reze Keycap Set | 1 | 1 | ₹1,720.00 | $18.08 |
+| 1N4148TA Diodes | 61 | 70 | ₹99.40 | $1.04 |
+| TLC5948APWPR 16-Channel LED Driver | 4 | 4 | ₹1,144.00 | $12.02 |
+| 18 kΩ MF25 Resistor | 4 | 6 | ₹10.08 | $0.11 |
+| 100 nF 50V Ceramic Capacitor | 4 | 9 | ₹10.98 | $0.12 |
+| 3 mm Bright White LEDs | 61 | 100 | ₹209.00 | $2.20 |
+| Cherry MX 2U Plate-Mount Stabilizers | 5 | 5 | ₹500.00 | $5.26 |
+| 24 AWG Solid-Core PVC Wire | ~7 m | 7 m | ₹70.00 | $0.74 |
+| 3 mm Black Heat-Shrink Tubing | — | 3 m | ₹39.00 | $0.41 |
+| Krytox GPL 205g0 | — | 1 g | ₹120.00 | $1.26 |
+| M2 × 8 mm SS304 Screws | 16 | 16 | ₹57.60 | $0.61 |
+| M2 × 6 mm Brass Threaded Inserts | 16 | 16 | ₹38.40 | $0.40 |
+| 2–3 mm EVA/Poron Dampening Foam | — | 1 sheet | TBD | TBD |
+| 3D-Printed Case + Plate | — | 1 | TBD | TBD |
+| **Total** | | | **₹5,576.81** | **~$58.63** |
 
