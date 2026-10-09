@@ -10,8 +10,8 @@ So Basically This keyboard is ran by qmk firmware and It uses a rp2040 Microchip
 ## CAD
 Source Link Onshape - https://cad.onshape.com/documents/ce0877fe3fbc02251fe6ba09/w/a497414719130e804db706af/e/002c5fa22ab6ceef532ed83b?renderMode=0&leftPanel=false&uiState=6a1fc2ac9539fb6e97131235
 FULLY ASSEMBLED KEYBOARD
-<img width="745" height="401" alt="image" src="https://github.com/user-attachments/assets/a4a1d375-b695-49d8-b60a-2d05fb35b990" />
-<img width="949" height="196" alt="image" src="https://github.com/user-attachments/assets/f355acf8-e408-4bd4-ad35-992f955fdfdb" />
+<img width="745" height="401" alt="image" src="https://github.com/user-attachments/assets/a4a1d375-b695-49d8-b60a-2d05fb35b990" /> | <img width="949" height="196" alt="image" src="https://github.com/user-attachments/assets/f355acf8-e408-4bd4-ad35-992f955fdfdb" />
+
 <img width="397" height="238" alt="image" src="https://github.com/user-attachments/assets/025bf3b6-2e2d-455f-bd99-1c4f461e4afc" />
 
 TOP PLATE
