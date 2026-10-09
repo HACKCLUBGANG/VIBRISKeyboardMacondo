@@ -81,8 +81,8 @@ Congratulations You have Just Built A 60% Hand Wired Keyboard
 
 # 61-Key Handwired Keyboard BOM
 
-| Component | Required Qty | Purchase Qty | Cost (INR) | Cost (USD) |
-|---|---:|---:|---:|---:|
+| Component | Required Qty | Purchase Qty | Cost (INR) | Cost (USD) | Links |
+|---|---:|---:|---:|---:|---:|
 | RP2040-Zero | 1 | 1 | ₹235.00 | $2.47 |
 | Gateron Milky PRO Yellow 5-pin Switches | 61 | 70 | ₹1,323.35 | $13.91 |
 | Chainsaw Reze Keycap Set | 1 | 1 | ₹1,720.00 | $18.08 |
