@@ -83,21 +83,19 @@ Congratulations You have Just Built A 60% Hand Wired Keyboard
 
 | Component | Required Qty | Purchase Qty | Cost (INR) | Cost (USD) | Links |
 |---|---:|---:|---:|---:|---:|
-| RP2040-Zero | 1 | 1 | ₹235.00 | $2.47 |
-| Gateron Milky PRO Yellow 5-pin Switches | 61 | 70 | ₹1,323.35 | $13.91 |
-| Chainsaw Reze Keycap Set | 1 | 1 | ₹1,720.00 | $18.08 |
-| 1N4148TA Diodes | 61 | 70 | ₹99.40 | $1.04 |
-| TLC5948APWPR 16-Channel LED Driver | 4 | 4 | ₹1,144.00 | $12.02 |
-| 18 kΩ MF25 Resistor | 4 | 6 | ₹10.08 | $0.11 |
-| 100 nF 50V Ceramic Capacitor | 4 | 9 | ₹10.98 | $0.12 |
-| 3 mm Bright White LEDs | 61 | 100 | ₹209.00 | $2.20 |
-| Cherry MX 2U Plate-Mount Stabilizers | 5 | 5 | ₹500.00 | $5.26 |
-| 24 AWG Solid-Core PVC Wire | ~7 m | 7 m | ₹70.00 | $0.74 |
-| 3 mm Black Heat-Shrink Tubing | — | 3 m | ₹39.00 | $0.41 |
-| Krytox GPL 205g0 | — | 1 g | ₹120.00 | $1.26 |
-| M2 × 8 mm SS304 Screws | 16 | 16 | ₹57.60 | $0.61 |
-| M2 × 6 mm Brass Threaded Inserts | 16 | 16 | ₹38.40 | $0.40 |
-| 2–3 mm EVA/Poron Dampening Foam | — | 1 sheet | TBD | TBD |
-| 3D-Printed Case + Plate | — | 1 | TBD | TBD |
+| RP2040-Zero | 1 | 1 | ₹235.00 | $2.47 | https://robu.in/product/rp2040-zero-for-raspberry-pi-microcontroller-with-soldering/ |
+| Gateron Milky PRO Yellow 5-pin Switches | 61 | 70 | ₹1,323.35 | $13.91 | https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/gateron-mechanical-pro-switch-5pin/ |
+| Chainsaw Reze Keycap Set | 1 | 1 | ₹1,720.00 | $18.08 | https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/valorant-full-keycap-set/ |
+| 1N4148TA Diodes | 61 | 70 | ₹99.40 | $1.04 | https://robu.in/product/1n4148-t50a-onsemi-100v-1v10ma-4ns-200ma-do-35-switching-diodes-rohs/ |
+| TLC5948APWPR 16-Channel LED Driver | 4 | 4 | ₹1,144.00 | $12.02 | https://robu.in/product/tlc5948apwpr-texas-instruments-10v-16-60ma-3v5-5v-tssop-24-ep-led-drivers-rohs/ |
+| 18 kΩ MF25 Resistor | 4 | 6 | ₹10.08 | $0.11 | https://robu.in/product/mf25-18k-multicomp-pro-through-hole-resistor-18-kohm-mf25-series-250-mw-%c2%b1-1-axial-leaded-250-v/ |
+| 100 nF 50V Ceramic Capacitor | 4 | 9 | ₹10.98 | $0.12 | https://robu.in/product/100nf-50v-disc-capacitor/ |
+| 3 mm Bright White LEDs | 61 | 100 | ₹209.00 | $2.20 | https://www.amazon.in/Electronic-Spices-Basic-White-Round |
+| Cherry MX 2U Plate-Mount Stabilizers | 5 | 5 | ₹500.00 | $5.26 | https://stackskb.com/store/genuine-cherry-mx-plate-mount-stabilizers-2u/ |
+| 24 AWG Solid-Core PVC Wire | ~7 m | 7 m | ₹70.00 | $0.74 | https://robu.in/product/24-awg-solid-core-insulated-wire-pvc/ |
+| Krytox GPL 205g0 | — | 1 g | ₹120.00 | $1.26 | https://stackskb.com/store/molykote-em50l-lubricant-5g/ |
+| M2 × 8 mm SS304 Screws | 16 | 16 | ₹57.60 | $0.61 | OnlyScrews |
+| M2 × 6 mm Brass Threaded Inserts | 16 | 16 | ₹38.40 | $0.40 | OnlyScrews | 
+| 3D-Printed Case + Plate | — | 1 | - | homemade | hpmemade |
 | **Total** | | | **₹5,576.81** | **~$58.63** |
 
